@@ -266,8 +266,6 @@ System speaks:
 ## 👨‍💻 Author
 
 **Vijay Krishnan P M**
-Final Year Data Science Student
-AI / ML Developer
 
 ---
 
