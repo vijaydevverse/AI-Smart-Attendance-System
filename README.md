@@ -1,8 +1,3 @@
-Here’s a **clean, professional GitHub-ready README.md** version of your project (refined structure, better wording, more polished presentation, and proper flow). You can copy-paste directly:
-
----
-
-```md
 # 🎓 AI Smart Attendance System
 
 An AI-powered attendance management system that uses **real-time face recognition** to automatically mark student attendance with **Check-In / Check-Out tracking**, voice feedback, and a live dashboard built using Streamlit.
